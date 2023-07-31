@@ -1,3 +1,5 @@
+## [Pig Game Demo](https://endearing-blini-a87dea.netlify.app/)
+
 # Pig Game
 
 ![Pig Game](img/pig-logo.png)
@@ -22,7 +24,7 @@ To play the Pig Game, simply open the `index.html` file in your web browser.
 
 ## Demo
 
-You can try out the game by visiting the [Pig Game Demo](https://example.com/pig-game-demo).
+You can try out the game by visiting the [Pig Game Demo](https://endearing-blini-a87dea.netlify.app/).
 
 ## Features
 
