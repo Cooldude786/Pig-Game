@@ -18,7 +18,7 @@ To play the Pig Game, simply open the `index.html` file in your web browser.
 
 ## Preview
 
-![Pig Game Preview](img/pig-game-screenshot.png)
+![Pig Game Preview](img/Pig-game-screenshot.png)
 
 ## Demo
 
